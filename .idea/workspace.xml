@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e99bfd2-0654-440c-b173-bb0ae819ef1b" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/let_94/inorderTraversal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/let_94/inorderTraversal_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +36,6 @@
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager" selected="Go 测试.Letcode_GO/let_88 中的 TestMerge">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="Letcode_GO" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_83" />
@@ -88,16 +80,6 @@
       <pattern value="^\QTestMerge\E$" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="Letcode_GO" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go 测试.Letcode_GO/let_88 中的 TestMerge" />
@@ -115,25 +97,29 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="260" key="GridCell.Tab.0.bottom" timestamp="1628677053897">
+    <state width="1876" height="260" key="GridCell.Tab.0.bottom" timestamp="1628679946327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628677053897" />
-    <state width="1876" height="260" key="GridCell.Tab.0.center" timestamp="1628677053896">
+    <state width="1876" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
+    <state width="1876" height="260" key="GridCell.Tab.0.center" timestamp="1628679946327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628677053896" />
-    <state width="1876" height="260" key="GridCell.Tab.0.left" timestamp="1628677053896">
+    <state width="1876" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
+    <state width="1876" height="260" key="GridCell.Tab.0.left" timestamp="1628679946327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628677053896" />
-    <state width="1876" height="260" key="GridCell.Tab.0.right" timestamp="1628677053897">
+    <state width="1876" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
+    <state width="1876" height="260" key="GridCell.Tab.0.right" timestamp="1628679946327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628677053897" />
+    <state width="1876" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1628671189821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1628671189821" />
+    <state width="502" height="352" key="documentation.popup.size" timestamp="1628738315905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="502" height="352" key="documentation.popup.size/0.0.1920.1040@0.0.1920.1040" timestamp="1628738315905" />
   </component>
 </project>
