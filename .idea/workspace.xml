@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e99bfd2-0654-440c-b173-bb0ae819ef1b" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Letcode_GO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Letcode_GO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/let_94/inorderTraversal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/let_94/inorderTraversal_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +16,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Go Application" />
         <option value="Go File" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="G:\Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1wZfjbDUbB7tGrqEENzBuq2wujv" />
   <component name="ProjectViewState">
@@ -29,63 +36,80 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable.全局.GOPATH.is.expanded" value="true" />
+    <property name="configurable.模块.GOPATH.is.expanded" value="false" />
+    <property name="configurable.项目.GOPATH.is.expanded" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="D:/code/www/aliyun-oss-appserver-go-master" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
-  <component name="RunManager" selected="Go 测试.Letcode_GO/let_88 中的 TestMerge">
-    <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 测试.Letcode_GO/let_1816 中的 TestTruncateSentence">
+    <configuration name="go build Letcode_GO" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
-      <working_directory value="$PROJECT_DIR$/let_83" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="Letcode_GO/let_83" />
+      <package value="Letcode_GO" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build longestCommonSub.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Letcode_GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Letcode_GO" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/let_1143/longestCommonSub.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Letcode_GO/let_1816 中的 TestTruncateSentence" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Letcode_GO" />
+      <working_directory value="$PROJECT_DIR$/let_1816" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="Letcode_GO/let_1816" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestDeleteDuplicates\E$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTruncateSentence\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_83" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_83" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestDeleteDuplicates\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="Letcode_GO" />
-      <working_directory value="$PROJECT_DIR$/let_83" />
       <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="Letcode_GO/let_83" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
       <pattern value="^\QTestDeleteDuplicates\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Letcode_GO/let_88 中的 TestMerge" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_88" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_88" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <pattern value="^\QTestMerge\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 测试.Letcode_GO/let_88 中的 TestMerge" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates (2)" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates (1)" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates" />
+        <item itemvalue="Go 测试.Letcode_GO/let_1816 中的 TestTruncateSentence" />
+        <item itemvalue="Go 构建.go build Letcode_GO" />
+        <item itemvalue="Go 构建.go build longestCommonSub.go" />
       </list>
     </recent_temporary>
   </component>
@@ -95,31 +119,5 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1876" height="260" key="GridCell.Tab.0.bottom" timestamp="1628679946327">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
-    <state width="1876" height="260" key="GridCell.Tab.0.center" timestamp="1628679946327">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
-    <state width="1876" height="260" key="GridCell.Tab.0.left" timestamp="1628679946327">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
-    <state width="1876" height="260" key="GridCell.Tab.0.right" timestamp="1628679946327">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628679946327" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1628671189821">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1628671189821" />
-    <state width="502" height="352" key="documentation.popup.size" timestamp="1628738315905">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="502" height="352" key="documentation.popup.size/0.0.1920.1040@0.0.1920.1040" timestamp="1628738315905" />
   </component>
 </project>
