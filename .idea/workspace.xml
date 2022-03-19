@@ -35,59 +35,51 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go 测试.Letcode_GO/let_88 中的 TestMerge">
+  <component name="RunManager" selected="Go Test.Letcode_GO/let_83 中的 TestDeleteDuplicates">
     <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_83" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_83" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <pattern value="^\QTestDeleteDuplicates\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_83" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_83" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <pattern value="^\QTestDeleteDuplicates\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Letcode_GO/let_83 中的 TestDeleteDuplicates" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_83" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_83" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <pattern value="^\QTestDeleteDuplicates\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Letcode_GO/let_88 中的 TestMerge" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Letcode_GO" />
       <working_directory value="$PROJECT_DIR$/let_88" />
-      <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="Letcode_GO/let_88" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <pattern value="^\QTestMerge\E$" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go 测试.Letcode_GO/let_88 中的 TestMerge" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates (2)" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates (1)" />
-        <item itemvalue="Go 测试.Letcode_GO/let_83 中的 TestDeleteDuplicates" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
