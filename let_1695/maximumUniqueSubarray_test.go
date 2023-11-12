@@ -6,8 +6,8 @@ import (
 )
 
 func Test_maximumUniqueSubarray(t *testing.T) {
-
-	got := maximumUniqueSubarray([]int{5, 2, 1, 2, 5, 2, 1, 2, 5})
+	nums := []int{}
+	got := maximumUniqueSubarray(nums)
 	fmt.Println(got)
 
 }
