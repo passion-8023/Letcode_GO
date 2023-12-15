@@ -9,7 +9,7 @@ import (
 func Test_reverseBookList(t *testing.T) {
 	slice := data.ListNodeBySlice([]int{6, 3, 4, 1})
 
-	list := reverseBookList(slice)
+	list := reverseBookList3(slice)
 
 	fmt.Println(list)
 }
