@@ -23,3 +23,19 @@ func kthToLast(head *data.ListNode, k int) int {
 
 	return result
 }
+
+// 快慢指针
+func kthToLast2(head *data.ListNode, k int) int {
+	slow, fast := head, head
+
+	for fast != nil {
+		if k == 0 {
+			slow = slow.Next
+		} else {
+			k--
+		}
+		fast = fast.Next
+	}
+
+	return slow.Val
+}
