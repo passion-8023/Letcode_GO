@@ -16,4 +16,5 @@ func hanota(A []int, B []int, C []int) []int {
 	}
 	move(len(A), &A, &B, &C)
 	return C
+
 }
